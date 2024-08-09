@@ -11,7 +11,6 @@ The Iris Flower Detection project demonstrates how to apply machine learning alg
 - **Data Preprocessing:** Clean and prepare the Iris dataset for model training.
 - **Model Training:** Implement various machine learning algorithms.
 - **Evaluation:** Assess the model's performance using metrics like accuracy, precision, and recall.
-- **Visualization:** Generate plots to visualize data and model performance.
 
 ## 🚀 Getting Started
 
@@ -58,9 +57,6 @@ Make sure you have the following installed:
 
 ## 📚 Files Overview
 
-- **`data/`**: Contains the Iris dataset.
-- **`notebooks/`**: Jupyter notebooks for data exploration and model training.
-- **`scripts/`**: Python scripts for model implementation and evaluation.
 - **`requirements.txt`**: List of Python packages required for the project.
 - **`README.md`**: This file, which provides an overview of the project.
 
@@ -86,13 +82,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - The Iris dataset is provided by the UCI Machine Learning Repository.
 - Various Python libraries and tools used in this project: `numpy`, `pandas`, `scikit-learn`, `matplotlib`, and `seaborn`.
-
-## 🧑‍💻 Contact
-
-For any questions or feedback, feel free to reach out to me:
-
-- **LinkedIn:** [Divyanshu Tyagi](https://www.linkedin.com/in/divyanshu-tyagi07604a224)
-- **GitHub:** [github2python](https://github.com/github2python)
 
 Happy coding!
 
